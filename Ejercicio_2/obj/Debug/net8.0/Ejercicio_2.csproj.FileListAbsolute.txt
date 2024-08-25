@@ -1,0 +1,14 @@
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.exe
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.deps.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.runtimeconfig.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\bin\Debug\net8.0\Ejercicio_2.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\refint\Ejercicio_2.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\Ejercicio_2.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_2\obj\Debug\net8.0\ref\Ejercicio_2.dll

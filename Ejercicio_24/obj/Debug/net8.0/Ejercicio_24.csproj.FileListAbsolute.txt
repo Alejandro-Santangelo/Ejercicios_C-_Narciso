@@ -1,0 +1,14 @@
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\bin\Debug\net8.0\Ejercicio_24.exe
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\bin\Debug\net8.0\Ejercicio_24.deps.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\bin\Debug\net8.0\Ejercicio_24.runtimeconfig.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\bin\Debug\net8.0\Ejercicio_24.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\bin\Debug\net8.0\Ejercicio_24.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\refint\Ejercicio_24.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\Ejercicio_24.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_24\obj\Debug\net8.0\ref\Ejercicio_24.dll

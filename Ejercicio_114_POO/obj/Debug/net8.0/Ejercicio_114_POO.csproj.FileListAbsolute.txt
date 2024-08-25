@@ -1,0 +1,14 @@
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\bin\Debug\net8.0\Ejercicio_114_POO.exe
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\bin\Debug\net8.0\Ejercicio_114_POO.deps.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\bin\Debug\net8.0\Ejercicio_114_POO.runtimeconfig.json
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\bin\Debug\net8.0\Ejercicio_114_POO.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\bin\Debug\net8.0\Ejercicio_114_POO.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\refint\Ejercicio_114_POO.dll
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.pdb
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\Ejercicio_114_POO.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\HOUSSAY SEGUNDO AÑO\NARCISO\PROGRAMACION\CLASE JUEVES 22-8\Ejercicios_C#\Ejercicio_114_POO\obj\Debug\net8.0\ref\Ejercicio_114_POO.dll
